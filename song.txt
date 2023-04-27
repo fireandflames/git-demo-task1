@@ -95,3 +95,4 @@ I'm not afraid to pull a-, man, stop
 Look what I'm plannin' (haha)
 
 some changes for commit 1
+some changes for commit 2
